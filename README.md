@@ -2,7 +2,7 @@
 
 从零到一地介绍如何使用 Python 语言，基于 DeepSeek 大模型能力，开发一款辅助记忆英语单词的 AI Agent 智能体英语。
 
-这是本人于 2025 年 2 月某个周末突发奇想写的 AI Agent，相信你即使是小白也能学会如何构造简单的结构化提示词，并开发简易的 AI 智能体。
+这是本人于 2025 年 2 月某个周末突发奇想写的 AI Agent，相信你即使是小白也能学会如何构造简单的结构化提示词，并开发简易的 AI 智能体。相关代码解读地址：《[基于DeepSeek开发英语单词助记AI智能体](https://blog.csdn.net/weixin_39190897/article/details/146278564)》，欢迎关注 [My Blog](https://blog.csdn.net/weixin_39190897/)。
 
 # 单词AI智能体
 
@@ -349,11 +349,5 @@ python.exe D:\EnglishAiAgent.py
 
 Process finished with exit code 0
 ```
-
-# 总结
-
-本文从零到一地介绍如何开发一款辅助记忆英语单词的 AI Agent 智能体英语，相信你即使是小白也能学会如何构造简单的结构化提示词，并开发简易的 AI 智能体。
-
-完整代码开源地址：
 
 
