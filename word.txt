@@ -1,0 +1,13 @@
+beside
+behind
+nature
+forest
+river
+lake
+mountain
+hill
+tree
+bridge
+building
+village
+boating

@@ -1,0 +1,119 @@
+python.exe D:\EnglishAiAgent.py
+[+]正在处理第 1 批单词: beside, behind, nature
+[+]AI的回答：
+{
+  "response": [
+    {
+      "word": "beside",
+      "pronounce": "/bɪˈsaɪd/",
+      "chinese_meaning": "在旁边",
+      "memory_method": "联想记忆法：想象一个人站在你的旁边（beside），你对他轻声说'别塞的'（beside的谐音），让他不要挤你"
+    },
+    {
+      "word": "behind",
+      "pronounce": "/bɪˈhaɪnd/",
+      "chinese_meaning": "在后面",
+      "memory_method": "分解记忆法：将'behind'分解为'be'（是）和'hind'（后部），可以编成一个小故事：'我（be）在后部（hind）等着你，所以我在后面（behind）'"
+    },
+    {
+      "word": "nature",
+      "pronounce": "/ˈneɪtʃər/",
+      "chinese_meaning": "自然",
+      "memory_method": "词根记忆法：'nature'的词根是'natus'，意为出生。可以想象大自然（nature）是所有生命的出生地，这样就能记住这个单词"
+    }
+  ]
+}
+✅第 1 批处理成功，累计已处理 3 个单词
+[+]正在处理第 2 批单词: forest, river, lake
+[+]AI的回答：
+{
+  "response": [
+    {
+      "word": "forest",
+      "pronounce": "/ˈfɒrɪst/",
+      "chinese_meaning": "森林",
+      "memory_method": "联想记忆法：想象你在森林（forest）里，四周都是高大的树木，你听到风吹过树叶发出'佛瑞斯特'的声音，仿佛在呼唤你进入这片神秘的绿色世界"
+    },
+    {
+      "word": "river",
+      "pronounce": "/ˈrɪvə/",
+      "chinese_meaning": "河流",
+      "memory_method": "分解记忆法：将'river'分解为'ri'（日）和'ver'（维尔），想象太阳（日）照耀在维尔河上，河水波光粼粼，美丽动人"
+    },
+    {
+      "word": "lake",
+      "pronounce": "/leɪk/",
+      "chinese_meaning": "湖泊",
+      "memory_method": "谐音记忆法：湖泊（lake）的发音类似于'累渴'，想象你在炎热的夏天走了很久的路，感到又累又渴，突然看到一片清澈的湖泊，立刻跳进去解渴"
+    }
+  ]
+}
+✅第 2 批处理成功，累计已处理 6 个单词
+[+]正在处理第 3 批单词: mountain, hill, tree
+[+]AI的回答：
+{
+  "response": [
+    {
+      "word": "mountain",
+      "pronounce": "/ˈmaʊntɪn/",
+      "chinese_meaning": "山",
+      "memory_method": "联想记忆法：想象一座大山（mountain）上有一个巨大的'馒头'（mountain的谐音），这样的联想可以帮助你记住这个单词"
+    },
+    {
+      "word": "hill",
+      "pronounce": "/hɪl/",
+      "chinese_meaning": "小山丘",
+      "memory_method": "分解记忆法：将'hill'分解为'hi'（嗨）和'll'（两个L），可以编成一个小故事：'嗨（hi），这两个L（ll）形状的小山丘真可爱'"
+    },
+    {
+      "word": "tree",
+      "pronounce": "/triː/",
+      "chinese_meaning": "树",
+      "memory_method": "联想记忆法：想象一棵树（tree）上挂满了'T恤'（tree的谐音），这样的联想可以帮助你记住这个单词"
+    }
+  ]
+}
+✅第 3 批处理成功，累计已处理 9 个单词
+[+]正在处理第 4 批单词: bridge, building, village
+[+]AI的回答：
+{
+  "response": [
+    {
+      "word": "bridge",
+      "pronounce": "/brɪdʒ/",
+      "chinese_meaning": "桥",
+      "memory_method": "联想记忆法：想象一座桥（bridge）连接两岸，桥上的行人都在'不急'（bridge的谐音）地慢慢走过，享受风景"
+    },
+    {
+      "word": "building",
+      "pronounce": "/ˈbɪldɪŋ/",
+      "chinese_meaning": "建筑物",
+      "memory_method": "分解记忆法：建筑物（building）是由砖块（build）一层层堆砌起来的，最后形成了一座高大的建筑（ing表示进行中）"
+    },
+    {
+      "word": "village",
+      "pronounce": "/ˈvɪlɪdʒ/",
+      "chinese_meaning": "村庄",
+      "memory_method": "联想记忆法：想象一个宁静的村庄（village），村民们都在'喂了鸡'（village的谐音），过着悠闲的生活"
+    }
+  ]
+}
+✅第 4 批处理成功，累计已处理 12 个单词
+[+]正在处理第 5 批单词: boating
+[+]AI的回答：
+{
+  "response": [
+    {
+      "word": "boating",
+      "pronounce": "/ˈbəʊtɪŋ/",
+      "chinese_meaning": "划船",
+      "memory_method": "联想记忆法：想象你在一个阳光明媚的下午，坐在小船（boat）上，悠闲地划着船（ing表示进行时），享受宁静的时光"
+    }
+  ]
+}
+✅第 5 批处理成功，累计已处理 13 个单词
+[+]Success! Markdown文件已生成：words.md
+
+🎉全部处理完成，共成功处理 13 个单词
+
+Process finished with exit code 0
